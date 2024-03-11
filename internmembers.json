@@ -1,0 +1,60 @@
+{
+  "internmembers": [
+    {
+      "id": "5ad3",
+      "name": "Hari Bahadur ",
+      "address": "Kathmandu",
+      "dob": "2024-01-06T18:15:00.000Z",
+      "selectionstatus": "true"
+    },
+    {
+      "id": "46f9",
+      "name": " test2",
+      "address": " test2",
+      "dob": "2024-01-15T18:15:00.000Z",
+      "selectionstatus": "true"
+    },
+    {
+      "id": "b91c",
+      "name": " test3",
+      "address": " test3",
+      "dob": "2024-01-29T18:15:00.000Z",
+      "selectionstatus": "true"
+    },
+    {
+      "id": "61f8",
+      "name": " Ishwar Khadka",
+      "address": "Bhaktapur",
+      "dob": "2024-02-13T18:15:00.000Z",
+      "selectionstatus": "true"
+    },
+    {
+      "id": "0b55",
+      "name": " Shyam Bahadur",
+      "address": " Lalitpur",
+      "dob": "2024-01-27T18:15:00.000Z",
+      "selectionstatus": "false"
+    },
+    {
+      "id": "d1e7",
+      "name": " Shyam Bahadur",
+      "address": " Lalitpur",
+      "dob": "2024-01-27T18:15:00.000Z",
+      "selectionstatus": "false"
+    },
+    {
+      "id": "c4a0",
+      "name": " testing1",
+      "address": " k 6",
+      "dob": "2024-01-29T18:15:00.000Z",
+      "selectionstatus": "false"
+    },
+    {
+      "id": "9009",
+      "name": "Bijay",
+      "address": " Kathmandu",
+      "dob": "2024-01-27T18:15:00.000Z",
+      "selectionstatus": "true"
+    }
+  ]
+}
